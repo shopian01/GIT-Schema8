@@ -1,0 +1,3 @@
+Git adalah sebuah sistem kontrol versi yang digunakan untuk mengelola perubahan dalam kode sumber perangkat lunak. Diciptakan oleh Linus Torvalds pada tahun 2005, Git dirancang khusus untuk memfasilitasi kolaborasi dalam pengembangan perangkat lunak, terutama proyek-proyek perangkat lunak open source yang melibatkan banyak kontributor.
+
+Dengan Git, pengembang dapat melacak perubahan-perubahan yang dilakukan pada kode sumber, mengelola cabang-cabang (branches) yang berbeda untuk pengembangan fitur atau perbaikan bug, serta berbagi kode dengan kontributor lain melalui repositori yang terpusat atau repositori remote.
